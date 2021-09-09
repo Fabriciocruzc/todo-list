@@ -10,4 +10,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [React](https://reactjs.org)
 
+# :construction_worker: Executando
+
+```bash
+# Clone o Repositório
+$ git@github.com:tavareshenrique/to.git
+```
+
+```bash
+# Acesse a pasta do projeto e baixe as dependências
+$ npm
+```
+
+```bash
+# Abar a pasta back-end e Execute 
+$ npm start
+```
+```bash
+# Abar a pasta front-end e Execute 
+$ npm start
+```
+
 
