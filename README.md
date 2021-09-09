@@ -30,8 +30,8 @@ $ npm start
 # Abar a pasta front-end e Execute 
 $ npm start
 ```
-
-table>
+# :computer: Autores
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/Fabriciocruzc">
