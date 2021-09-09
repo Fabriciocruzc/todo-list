@@ -3,6 +3,11 @@ A todoList e um sistema que tem como objetivo realizar o login do usuário, se e
 além disso, ele também pode apagar as atividades que já foram concluídas.
 Esse projeto foi desenvolvido durante a disciplina de desenvlvimento web I.
 
+# :pushpin: Conteúdo
+  - [Tecnologias usadas](#computer-tecnologias)
+  - [Executando](#construction_worker-executando)
+  - [Autores](#computer-autores)
+
 # :computer: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,7 +35,7 @@ $ npm start
 # Abar a pasta front-end e Execute 
 $ npm start
 ```
-# :computer: Autores
+# :computer: Autor
 <table>
   <tr>
     <td align="center">
