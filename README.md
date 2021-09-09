@@ -28,11 +28,11 @@ $ npm
 ```
 
 ```bash
-# Abar a pasta back-end e Execute 
+# Abra a pasta back-end e Execute 
 $ npm start
 ```
 ```bash
-# Abar a pasta front-end e Execute 
+# Abra a pasta front-end e Execute 
 $ npm start
 ```
 # :computer: Autor
