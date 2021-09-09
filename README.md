@@ -41,15 +41,6 @@ table>
           <b>Fabricio Cruz</b>
         </sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/Fabriciocruzc">
-        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Fabricio Cruz"/>
-        <br />
-        <sub>
-          <b>Rocketseat</b>
-        </sub>
-    </td>
-  </tr>
 </table>
 
 
