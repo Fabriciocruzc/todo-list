@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$ git@github.com:tavareshenrique/to.git
+$ https://github.com/Fabriciocruzc/todo-list.git
 ```
 
 ```bash
